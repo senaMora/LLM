@@ -1,1 +1,1 @@
-geminiapi_key = "12ab"
+geminiapi_key = "12abc"
